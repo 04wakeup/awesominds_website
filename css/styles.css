@@ -2,12 +2,8 @@ body {
   font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
   text-align: center;
   color: #1D1D1F;
-}
+} 
 
-/* h1, h2, h3, h4, h5, h6 {
-  font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
-} */
-  
 p {
   color: #636161;
   line-height: 2.5rem;
@@ -141,56 +137,7 @@ hr{
   width: 85%;    
   border-radius: 8px;
 } 
-
-/* Features Section */
-
-/* #features {
-  position: relative;
-}
-
-.feature-title {
-  font-size: 1.5rem;
-}
-
-.feature-box {
-  padding: 4.5%;
-}
-
-.icon {
-  color: #ef8172;
-  margin-bottom: 1rem;
-}
-
-.icon:hover {
-  color: #ff4c68;
-} */
-
-/* Testimonial Section */
-
-/* #testimonials {
-   */
-
-/* Pricing Section */
-
-/* #pricing {
-  padding: 100px;
-}
-
-.price-text {
-  font-size: 3rem;
-  line-height: 1.5;
-}
-
-.pricing-column {
-  padding: 3% 2%;
-}
-  */
-/* Footer Section */
-
-/* .social-icon {
-  margin: 20px 10px;
-} */
-
+ 
 @media (max-width: 1028px) {
 
   #title {
