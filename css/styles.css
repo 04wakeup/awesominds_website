@@ -196,3 +196,5 @@ hr{
 ::-webkit-scrollbar-thumb:hover {
   background: #03ff42; 
 }
+
+html{scroll-behavior:smooth}
